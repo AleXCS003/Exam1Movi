@@ -12,6 +12,8 @@
       </ion-thumbnail>
       <ion-label>
         <h2>{{ item.title }}</h2>
+      
+      <ion-button (click)="saveBook(item.title, item.imageUrl)">Guardar</ion-button>
       </ion-label>
     </ion-item>
   </ion-list>
