@@ -16,7 +16,7 @@ Esta es una aplicación desarrollada con **Ionic-Angular** que utiliza datos de 
   - La URL de la imagen (robot o perro).
       ![image](https://github.com/user-attachments/assets/88b6643f-1b38-476a-876e-ac8459173efa)
 
-### El nombre de libro y la url del perrito o la url del robot en Firebase 
+### El nombre de libro y la url del perrito en Firebase 
 ![image](https://github.com/user-attachments/assets/6b9711c1-7235-4993-b713-46bef7dfddd6)
 -
 -Aplicacion en la web
